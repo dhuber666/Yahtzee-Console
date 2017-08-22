@@ -1,0 +1,7 @@
+C:\Users\Don\source\repos\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+C:\Users\Don\source\repos\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+C:\Users\Don\source\repos\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Users\Don\source\repos\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+C:\Users\Don\source\repos\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.CoreCompileInputs.cache
+C:\Users\Don\source\repos\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+C:\Users\Don\source\repos\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
